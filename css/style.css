@@ -1,0 +1,57 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {color: rgb(189, 16, 16);
+    border: grey double 20px;
+    background-color: rgb(54, 56, 56);
+    min-height: 200px;
+    padding-top: 100px;
+    padding-left: 400px;
+    
+}
+.hola{
+    margin: 100px;
+}
+/*
+article{
+    background-color: brown;
+}
+*/
+section article{
+    background-color: rgb(189, 16, 16);
+}
+.titulo{
+    color: rgb(54, 56, 56);
+}
+/*.btn{
+color: aqua;
+} */
+
+.portada{
+    padding: 3rem 1rem;
+    background-color: cadetblue;
+    height: 500px;
+    background-image: url("../img/inovação-na-indústria-madeireira-movix-3-e1541448075536-q3gpc8rjb89vcf676hnlui3rdth9jt1jx4td3bmqvc.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+
+}
+
+.parrafo{
+    color: rgb(54, 56, 56);
+}
+ 
+header-wraper{
+background-color: blue;
+}
+
+
+nav ul li a:hover{
+text-decoration: underline;
+}
+.portada-boton:hover{
+    background-color: aqua;
+}
